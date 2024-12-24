@@ -5,7 +5,7 @@ A modern, responsive, and interactive portfolio website built with React and var
 Please reach out to view the full code!
 ---
 
-## Live Demo
+## Live Website
 
 - **GitHub Pages**: [Haley Ogier's Personal Portfolio](https://haley-ogier.github.io/Portfolio/)  
 
