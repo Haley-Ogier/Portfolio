@@ -2,6 +2,7 @@
 
 A modern, responsive, and interactive portfolio website built with React and various cutting-edge libraries. This site showcases my experience, projects, and skills, providing an engaging way for visitors to learn more about my background and achievements.
 
+Please reach out to view the full code!
 ---
 
 ## Live Demo
