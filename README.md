@@ -2,9 +2,10 @@
 
 A modern, responsive, and interactive portfolio website built with React and various cutting-edge libraries. This site showcases my experience, projects, and skills, providing an engaging way for visitors to learn more about my background and achievements.
 
+Please reach out to view the full code!
 ---
 
-## Live Demo
+## Live Website
 
 - **GitHub Pages**: [Haley Ogier's Personal Portfolio](https://haley-ogier.github.io/Portfolio/)  
 
