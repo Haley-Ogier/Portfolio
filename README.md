@@ -13,8 +13,8 @@ Please reach out to view the full code!
 
 ## Features
 
-1. **Animated Hero Section**  
-   - Uses **react-typed** (or **react-simple-typewriter**) for typing animations.  
+1. **Animated Landing Page**  
+   - Uses **react-typed** for typing animations.  
    - Particles background via **react-tsparticles** for a visually dynamic look.
 
 2. **Home Page**  
@@ -22,11 +22,11 @@ Please reach out to view the full code!
    - Call-to-action buttons linking to projects or resume.
 
 3. **About Page**  
-   - Timeline of key milestones (education, internships, ambassador roles) with **Framer Motion** animations.  
+   - Timeline of key milestones with **Framer Motion** animations.  
    - Includes hobbies, interests, and a brief personal bio.
 
 4. **Skills Page**  
-   - Interactive “flip card” UI (or grouped categories) highlighting languages, frameworks, and tools.  
+   - Interactive “flip card” UI highlighting languages, frameworks, and tools.  
    - Hover effects or animated transitions powered by **Framer Motion**.
 
 5. **Projects Page**  
@@ -39,21 +39,19 @@ Please reach out to view the full code!
 
 7. **Footer**  
    - Links to social media (LinkedIn, GitHub) and a mailto link that opens the user’s email client.  
-   - Animated icons using **Framer Motion** and an optional wave divider for style.
+   - Animated icons using **Framer Motion**.
 
 ---
 
 ## Tech Stack
 
-- **React** (18.x) — Core framework for building dynamic UIs.  
-- **React Scripts** (5.x) — CRA tooling for development and production builds.  
+- **React** — Core framework for building dynamic UIs.  
+- **React Scripts** — CRA tooling for development and production builds.  
 - **Framer Motion** — Modern animation library for React components.  
-- **React Typed / react-simple-typewriter** — Typing animations in the hero/home page.  
+- **React Typed** — Typing animations in the home page.  
 - **react-tsparticles & tsparticles** — Particle animations for the background.  
 - **EmailJS** — Client-side email sending for the Contact form.  
-- **Three.js & @react-three/fiber** / **@react-three/drei** — (Optional) 3D background or elements.  
-- **Swiper** — (Optional) Interactive sliders or carousels.  
-- **CSS / Sass** — Styling (or CSS modules).
+- **CSS** — Styling.
 
 ---
 
