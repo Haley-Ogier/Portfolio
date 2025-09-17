@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.88c2d1f3.css",
-    "main.js": "/Portfolio/static/js/main.9839a1fe.js",
-    "index.html": "/Portfolio/index.html",
-    "main.88c2d1f3.css.map": "/Portfolio/static/css/main.88c2d1f3.css.map",
-    "main.9839a1fe.js.map": "/Portfolio/static/js/main.9839a1fe.js.map"
+    "main.css": "/Haley-Ogiers-Personal-Portfolio/static/css/main.a8876a5b.css",
+    "main.js": "/Haley-Ogiers-Personal-Portfolio/static/js/main.f69919c8.js",
+    "index.html": "/Haley-Ogiers-Personal-Portfolio/index.html",
+    "main.a8876a5b.css.map": "/Haley-Ogiers-Personal-Portfolio/static/css/main.a8876a5b.css.map",
+    "main.f69919c8.js.map": "/Haley-Ogiers-Personal-Portfolio/static/js/main.f69919c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.88c2d1f3.css",
-    "static/js/main.9839a1fe.js"
+    "static/css/main.a8876a5b.css",
+    "static/js/main.f69919c8.js"
   ]
 }
